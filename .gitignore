@@ -1,0 +1,7 @@
+.DS_Store
+.vscode 
+*.pem
+config
+*.csv 
+*.json 
+test.py
