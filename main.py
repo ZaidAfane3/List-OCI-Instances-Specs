@@ -1,8 +1,4 @@
-import json
-import logging
-from networkx import volume
 import oci
-import csv
 
 
 def get_volumes_sizes(instance_id, availability_domain):
